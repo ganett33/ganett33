@@ -16,3 +16,6 @@ Interested in programming with UX/UI, like to interact with people and out of a 
 
 ## Learning
 <img src="https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=Blazor&logoColor=white"/> ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganett33&layout=compact)
